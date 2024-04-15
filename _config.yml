@@ -12,7 +12,7 @@ title                    : "Your Name / Site Title"
 title_separator          : "-"
 name                     : &name "Christopher Callaghan"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://callaghanc03.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "CallaghanC03/CallaghanC03.github.io"
 
@@ -21,7 +21,7 @@ repository               : "CallaghanC03/CallaghanC03.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "pfp.png"
+  avatar           : "profile2.png"
   name             : "Christopher Callaghan"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
