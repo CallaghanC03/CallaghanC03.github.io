@@ -24,8 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Christopher Callaghan"
   pronouns         : # example: "she/her"  
-  bio              : "BS. Geography & Environmental Science
-  "Cert. Geographic Information Sciences"
+  bio              : "BS. Geography & Environmental Science"+ "Cert. Geographic Information Sciences"
   location         : "Rockville, MD"
   employer         : "University of Maryland, Baltimore County"
   uri              : # URL
