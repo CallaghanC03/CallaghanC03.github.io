@@ -11,9 +11,8 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* B.S. in Geography & Environmental Sciences, University of Maryland, Baltimore County, 2024
+* Certificate in Geographic Information Sciences, University of Maryland, Baltimore County, 2024
 
 Work experience
 ======
