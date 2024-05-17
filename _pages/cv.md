@@ -14,50 +14,26 @@ Education
 * B.S. in Geography & Environmental Sciences, University of Maryland, Baltimore County, 2024
 * Certificate in Geographic Information Sciences, University of Maryland, Baltimore County, 2024
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programs: ArcGIS Pro, ArcGIS Online, Survey123, QGIS, ENVI 5.7, Google Earth Engine, Fusion, GeoDa, MS Excel,
+MS Word, MS Powerpoint
+* Coding Languages: Python(Libraries: Numpy, Pandas, Geopandas, Matplot, Leaflet, Folium, ArcGIS Python API),
+Javascript(GEE, ArcGIS JS API), R(Libraries: tidyverse, sf, dplyr, lares, tmaptools, ggplot2, olsrr, leaflet)
 
-Publications
+Work experience
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+UMBC(Sept. 2023 - May. 2024)
+1099 Hilltop Rd, Baltimore, MD 21250
+Geographic Information Systems Lab Proctor Internship
+ * Monitor Lab and prevent theft/destruction of Lab property
+ * Aid, Graduate or Undergraduate, students in solving technical problems and errors impeding their work
+ * Perform software installs/updates for multiple computers and document user access availability
+ * Preparation for class labs and aiding in lab activities as a secondary teaching assistant
+Walgreens(Sept. 2020 - Aug. 2023)
+1075 Seven Locks Road, Rockville, MD
+Customer Service Associate
+ * Assist Customers, Stock shelves, Cashier, Photo Tech.
+ * Helped train new managers in in-store functions
+ * I took on a different position to also assist with pharmacy technician duties.
+
