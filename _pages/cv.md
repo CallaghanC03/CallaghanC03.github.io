@@ -26,9 +26,9 @@ Skills
   * GeoDa
   * MS Office
 * Coding Languages:
-  * Python(Libraries: Numpy, Pandas, Geopandas, Matplot, Leaflet, Folium, ArcGIS Python API)
-  * R(Libraries: tidyverse, sf, dplyr, lares, tmaptools, ggplot2, olsrr, leaflet)
-  * Javascript(GEE, ArcGIS JS API)
+  * Python (Libraries: Numpy, Pandas, Geopandas, Matplot, Leaflet, Folium, ArcGIS Python API)
+  * R (Libraries: tidyverse, sf, dplyr, lares, tmaptools, ggplot2, olsrr, leaflet)
+  * Javascript (GEE, ArcGIS JS API)
 
 Work experience
 ======
