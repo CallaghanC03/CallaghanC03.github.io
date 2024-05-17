@@ -32,14 +32,14 @@ Skills
 
 Work experience
 ======
-UMBC(Sept. 2023 - May. 2024)
+UMBC (Sept. 2023 - May. 2024)
 1099 Hilltop Rd, Baltimore, MD 21250
 Geographic Information Systems Lab Proctor Internship
  * Monitor Lab and prevent theft/destruction of Lab property
  * Aid, Graduate or Undergraduate, students in solving technical problems and errors impeding their work
  * Perform software installs/updates for multiple computers and document user access availability
  * Preparation for class labs and aiding in lab activities as a secondary teaching assistant
-Walgreens(Sept. 2020 - Aug. 2023)
+Walgreens (Sept. 2020 - Aug. 2023)
 1075 Seven Locks Road, Rockville, MD
 Customer Service Associate
  * Assist Customers, Stock shelves, Cashier, Photo Tech.
