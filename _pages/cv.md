@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Resume"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -16,10 +16,19 @@ Education
 
 Skills
 ======
-* Programs: ArcGIS Pro, ArcGIS Online, Survey123, QGIS, ENVI 5.7, Google Earth Engine, Fusion, GeoDa, MS Excel,
-MS Word, MS Powerpoint
-* Coding Languages: Python(Libraries: Numpy, Pandas, Geopandas, Matplot, Leaflet, Folium, ArcGIS Python API),
-Javascript(GEE, ArcGIS JS API), R(Libraries: tidyverse, sf, dplyr, lares, tmaptools, ggplot2, olsrr, leaflet)
+* Programs:
+  * ArcGIS Pro
+  * ArcGIS Online
+  * Survey123, QGIS
+  * ENVI 5.7
+  * Google Earth Engine
+  * Fusion
+  * GeoDa
+  * MS Office
+* Coding Languages:
+  * Python(Libraries: Numpy, Pandas, Geopandas, Matplot, Leaflet, Folium, ArcGIS Python API)
+  * R(Libraries: tidyverse, sf, dplyr, lares, tmaptools, ggplot2, olsrr, leaflet)
+  * Javascript(GEE, ArcGIS JS API)
 
 Work experience
 ======
