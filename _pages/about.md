@@ -5,6 +5,7 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+---
 
 Education
 University of Maryland, Baltimore County Spring 2024
@@ -24,5 +25,3 @@ Computer Science 1
 Richard Montgomery High School ` H.S. Diploma
 Rockville. MD 20850 May 2019
 GPA 3.08 (3.26 weighted)
----
-
