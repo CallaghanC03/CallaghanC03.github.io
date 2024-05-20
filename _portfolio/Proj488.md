@@ -82,7 +82,7 @@ Landsat Data gotten from link and code below:
 
 ##### Landsat Collection 2 Level- 2 Surface Reflectance Science Product courtesy of the U.S. Geological Survey
 
-```{javascript_LANDSAT_GEE_Code}
+```{javascript LANDSAT_GEE_Code}
 // ** Function to apply mask and add quality bands to Landsat 8 images
 var addQualityBands = function(image, bands) {
   return maskClouds(image)
