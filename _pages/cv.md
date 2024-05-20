@@ -39,6 +39,7 @@ Geographic Information Systems Lab Proctor Internship
  * Aid, Graduate or Undergraduate, students in solving technical problems and errors impeding their work
  * Perform software installs/updates for multiple computers and document user access availability
  * Preparation for class labs and aiding in lab activities as a secondary teaching assistant<br/>
+
 Walgreens (Sept. 2020 - Aug. 2023)<br/>
 1075 Seven Locks Road, Rockville, MD<br/>
 Customer Service Associate
