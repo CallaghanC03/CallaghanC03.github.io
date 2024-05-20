@@ -8,7 +8,6 @@ redirect_from:
 ---
 
 Education
-======
 B.S. in Geography & Environmental Sciences, University of Maryland, Baltimore County, 2024
 * Certificate in Geographic Information Sciences, University of Maryland, Baltimore County, 2024
 
