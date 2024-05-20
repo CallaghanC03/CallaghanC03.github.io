@@ -1,6 +1,6 @@
 ---
 title: "GES488 Final Project"
-excerpt: "I looked at the effect of high amounts of vegetation on the access to cable internet. I did this using satellite data from Landsat imagery. This was then used to create an NDVI vegetation index. This compares the amount of Red light to Near Infrared light because plants relect a lot on NIR but very little Red light. Then the averages of NDVI in all tracts were then compared to percentages of household cable internet returning a strong correlation. <br/><img src='/images/Moran.png'>"
+excerpt: "I looked at the effect of high amounts of vegetation on the access to cable internet. I did this using satellite data from Landsat imagery. This was then used to create an NDVI vegetation index. This compares the amount of Red light to Near Infrared light because plants relect a lot on NIR but very little Red light. Then the averages of NDVI in all tracts were then compared to percentages of household cable internet returning a strong correlation. Below is the clustering of high to high(red) and low to low(blue) values between the two. <br/><img src='/images/Moran.png'>"
 collection: portfolio
 ---
 
