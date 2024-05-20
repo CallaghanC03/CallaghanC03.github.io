@@ -24,6 +24,7 @@ library(lares)
 library(jtools)
 
 census_api_key("Enter API KEY") # Enter API "KEY"
+
 ```
 
 ### Data Pull
@@ -72,6 +73,7 @@ tract$no_net_pct <- tract$no_netE/tract$hh_totalE
 tract$sat_net_pct <- tract$sat_netE/tract$hh_totalE
 
 # st_write(tract, "I:/Final_Proj/data/tract.shp")
+
 ```
 
 #### Landsat Data
@@ -164,4 +166,5 @@ rquery.cormat(corr_subset)
 mod.1 <- lm(cbl_pct ~ NDVI_mean, data = proj)
 summary(mod.1)
 summ(mod.1, confint = TRUE, digits = 4)
+
 ```
