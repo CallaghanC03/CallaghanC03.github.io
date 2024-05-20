@@ -115,7 +115,7 @@ var maskClouds = function(image) {
 
 // --> Add the Landsat surface reflectance collection
 // Filter by date
-var landsat = ee.ImageCollection('LANDSAT/LC08/C02/T1_L2').filterDate('2017-06-01', '2017-09-30').filterBounds(MDDCVA)
+var landsat = ee.ImageCollection('LANDSAT/LC08/C02/T1_L2').filterDate('2022-01-01', '2022-12-31').filterBounds(MDDCVA)
 
 // Calculate median for each band using filtered Collection
 // Map the cloud screening function over the collection
