@@ -23,7 +23,7 @@ library(olsrr)
 library(lares)
 library(jtools)
 
-census_api_key("a91b19846dc2e7972c640b84abc39f74fef6e5b8") # Enter API "KEY"
+census_api_key("Enter API KEY") # Enter API "KEY"
 ```
 
 ### Data Pull
@@ -78,7 +78,7 @@ tract$sat_net_pct <- tract$sat_netE/tract$hh_totalE
 
 Landsat Data gotten from link and code below:
 
-##### <https://code.earthengine.google.com/b010c2b896602c6e95745fd2d1b9b79f>   -\>
+##### <https://code.earthengine.google.com/b010c2b896602c6e95745fd2d1b9b79f> -\>
 
 ##### Landsat Collection 2 Level- 2 Surface Reflectance Science Product courtesy of the U.S. Geological Survey
 
