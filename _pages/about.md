@@ -8,8 +8,10 @@ redirect_from:
 ---
 
 Education
-University of Maryland, Baltimore County Spring 2024
-BS. Geography and Environmental Science
+======
+* B.S. in Geography & Environmental Sciences, University of Maryland, Baltimore County, 2024
+* Certificate in Geographic Information Sciences, University of Maryland, Baltimore County, 2024
+
 Certificate: Geographic Information Systems
 Related Courses
 GIS:
