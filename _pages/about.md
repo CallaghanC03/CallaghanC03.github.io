@@ -11,8 +11,6 @@ Education<br>
 =========
 B.S. in Geography & Environmental Sciences, University of Maryland, Baltimore County, 2024
 * Certificate in Geographic Information Sciences
-
-Certificate: Geographic Information Systems<br>
 Related Courses<br>
 GIS:<br>
 Exploring the Environment: A Geo-Spatial Perspective (Fall 2022)<br>
