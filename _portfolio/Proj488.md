@@ -23,7 +23,7 @@ library(olsrr)
 library(lares)
 library(jtools)
 
-census_api_key("Enter API KEY") # Enter API "KEY"
+census_api_key() # Enter API "KEY"
 
 ```
 
@@ -32,7 +32,7 @@ census_api_key("Enter API KEY") # Enter API "KEY"
 Using the tidyverse/tidycensus library with the `get_acs()` function to pull data for tracts across DC and Maryland of boardband internet access
 
 ```{r Data_Grab, warning = FALSE}
-census_api_key('a91b19846dc2e7972c640b84abc39f74fef6e5b8')
+census_api_key("Enter API KEY")
 
 vars <- load_variables(2022, "acs5/subject")  
 vars$groupid <- lares::left(vars$name, n=9)
